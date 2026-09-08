@@ -1,32 +1,35 @@
-Help me build a simple workout plan I can actually follow. Use my answers, not Luke's weights, calories or schedule.
+Help me make a simple workout plan that fits my life.
 
-MY CONTEXT
-• Main goal and timeframe: [fill in]
-• Age and training experience: [fill in]
-• Days I can train, minutes per session, and equipment I have: [fill in]
-• My current routine, including other sport or cardio: [paste or describe]
-• Recent working sets: [exercise, weight, sets, reps, and how many more reps I could have done with the same form]
-• What has worked, what has stalled, and what I enjoy or dislike: [fill in]
-• Sleep, fatigue, work schedule and anything affecting consistency: [fill in]
-• Pain, injuries or professional restrictions relevant to training: [describe only what I'm comfortable sharing]
-• Nutrition help wanted? [yes/no; if yes, add height, weight trend, eating preferences and what tracking is sustainable for me]
+Ask me a few questions at a time. Wait for my answers before writing the plan.
 
-BEFORE YOU WRITE THE PLAN
-Ask me the important questions I haven't answered. Wait for my replies. Summarise my priorities and constraints, check whether my goal and timeframe are realistic, and label assumptions. Wearable scores are supporting context; don't use them to diagnose a problem or override how I feel.
+Find out:
+• What I want to achieve and by when.
+• My age and how long I've been lifting.
+• How many days I can train, how much time I have, and what equipment I can use.
+• My current workouts, recent weights and reps, and other exercise I do.
+• What I enjoy, what isn't improving, how I sleep, and how tired I feel.
+• Any pain, injuries or limits I need to work around.
 
-WHAT I WANT BACK
-1. One manageable routine for the next 4–6 weeks, with a review after the first two. Fit it into my real week. Don't force a six-day split or keep adding exercises.
-2. For every workout: exercise order, warm-up guidance, working sets, rep range, rest, and effort in plain English. Explain why the main choices fit me.
-3. Help me choose starting loads using my recent sets and controlled form. If there isn't enough information, explain how to select a load instead of inventing a weight. No max test needed to start.
-4. A clear rule for adding reps or weight, and what to do after a missed session, poor recovery or a plateau. Keep my main exercises stable unless there is a reason to change them.
-5. An alternative for an exercise I can't do or don't have equipment for. Don't tell me to train through pain; flag when hands-on coaching or a qualified healthcare professional is needed.
-6. A plain-text log I can copy: date, exercise, load, sets, reps, effort, and notes.
-7. Only if I asked for nutrition: a realistic starting approach with estimates labelled, based on my goal and weight trend. Don't automatically prescribe a bulk or copy another person's calories. Avoid aggressive restriction. Suggest dietitian support where my health or eating history makes generic advice unsuitable.
+Then give me:
+• A plan for the next 4–6 weeks that fits my schedule.
+• Each day's exercises in order, warm-up, sets, reps and rest times. Explain how hard each set should feel.
+• A way to choose starting weights with good form. Don't guess weights or copy Luke's numbers.
+• Simple rules for adding reps or weight, missing a workout, or feeling worn out.
+• Other exercises I can use if one doesn't suit me.
+• A short workout log I can save in my notes.
 
-Keep it practical and explain the trade-offs. Separate established guidance from guesses, cite reliable sources for factual claims, and don't promise a perfect plan or a specific amount of muscle gain.
+Ask if I want help with food. If I do, ask about my size, weight trend, goal and eating habits first. Explain any estimates. Don't automatically put me on a bulk or a strict diet.
+
+Use plain words. Explain why the plan fits me. Be honest about what you don't know and link reliable sources for factual claims. Don't promise results or tell me to push through pain. Say when I need a trainer, clinician or dietitian.
+
+Start by asking your first questions. We'll review the plan after two weeks.
 
 AFTER TWO WEEKS
 
-Review this plan against my last two weeks of training. Here are the sessions I completed, my working sets, sleep, fatigue, any pain, and my weight trend if relevant: [paste].
+Here's how my last two weeks went:
+• Workouts I finished: [paste my exercises, weights, sets and reps]
+• What felt easy, hard, or took too long: [my notes]
+• Sleep, tiredness and any pain: [my notes]
+• Weight trend, if it matters to my goal: [optional]
 
-What is improving, what is uncertain, and what needs changing? Ask for missing information. Keep the parts that work, suggest the smallest useful adjustment, and tell me what to track next. Don't rewrite my entire routine or judge progress from one workout. Flag pain or health concerns that need a qualified professional.
+What should I keep doing? What should I change? Ask if you need more detail. Keep changes small and explain them. Don't judge the whole plan from one bad workout. Tell me if any pain or health concern needs professional help.

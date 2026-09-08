@@ -1,14 +1,14 @@
 {
   "title": "Luke's lean bulk plan",
-  "version": "Original v2 with Luke's dip substitution",
-  "intro": "My AI plan with weighted dips first on Push, replacing rope pushdowns. The other listed loads are my original starting weights while I focused on form. These weights and nutrition targets are personal, not targets for everyone.",
-  "split": "Push → Pull → Legs → Rest → repeat. Train three days, rest one. The rest day moves across the week.",
+  "version": "My v2 plan, with dips",
+  "intro": "I swapped rope pushdowns for weighted dips and put dips first here. The table shows my starting weights while I worked on form. Pick weights you can control. My food targets were set for me, too.",
+  "split": "Push → Pull → Legs → Rest → repeat. Follow the days in order, even when a new week starts.",
   "days": [
     {
       "id": "push",
       "name": "Push",
       "number": "01",
-      "focus": "Chest, shoulders, triceps + core",
+      "focus": "Chest, shoulders, triceps + abs",
       "color": "#3de1c6",
       "exercises": [
         {
@@ -18,38 +18,38 @@
           "prescription": "Not recorded",
           "rest": "Not recorded",
           "start": "Not recorded",
-          "note": "Replaces rope pushdowns. Dips are listed first in this shared version. The four-month check-in lists +10 kg on a belt; my starting dip prescription was not recorded in the original PDF."
+          "note": "I swapped rope pushdowns for dips. My starting sets, reps and weight weren’t saved. Four months later, I was using +10 kg on a belt."
         },
         {
-          "name": "Barbell flat bench",
+          "name": "Barbell bench press",
           "sets": "4",
           "reps": "5–8",
           "rest": "3 min",
           "start": "70 kg"
         },
         {
-          "name": "Standing barbell OHP",
+          "name": "Standing overhead press",
           "sets": "3",
           "reps": "6–8",
           "rest": "2.5 min",
           "start": "45 kg"
         },
         {
-          "name": "Incline DB press (30°)",
+          "name": "Incline dumbbell press (30°)",
           "sets": "3",
           "reps": "8–12",
           "rest": "2 min",
           "start": "30 kg each"
         },
         {
-          "name": "DB lateral raise",
+          "name": "Dumbbell lateral raise",
           "sets": "3",
           "reps": "12–15",
           "rest": "75 sec",
           "start": "12.5 kg"
         },
         {
-          "name": "Overhead cable triceps",
+          "name": "Overhead cable triceps extension",
           "sets": "2–3",
           "reps": "12–15",
           "rest": "60 sec",
@@ -70,7 +70,7 @@
       "id": "pull",
       "name": "Pull",
       "number": "02",
-      "focus": "Back, rear delts, biceps + core",
+      "focus": "Back, rear shoulders, biceps + abs",
       "color": "#f7b84b",
       "exercises": [
         {
@@ -95,7 +95,7 @@
           "start": "60 kg"
         },
         {
-          "name": "Chest-supported DB row",
+          "name": "Chest-supported dumbbell row",
           "sets": "2",
           "reps": "10–12",
           "rest": "90 sec",
@@ -189,25 +189,25 @@
           "sets": "3",
           "reps": "12–15",
           "rest": "60 sec",
-          "start": "Pick a 12RM"
+          "start": "Choose a 12-rep weight"
         }
       ]
     }
   ],
-  "rest": "Full rest, or easy recovery only. Optional: 30–45 minutes of easy zone 2 cycling or walking, plus 10 minutes of mobility or sauna. The plan's sleep target was 7.5–9 hours. Then loop back to Push.",
+  "rest": "Take the day off lifting. If you want to move, the plan allows 30–45 minutes of easy cycling or walking, plus 10 minutes of mobility work or sauna. My sleep target was 7.5–9 hours. Next day: Push.",
   "progression": [
-    "Log every working set. Aim for an extra rep or a little more weight on at least one set.",
-    "Add reps first. Keep the same weight until every set reaches the top of its rep range.",
-    "Then add weight: +2.5 kg on upper-body lifts or +5 kg on lower-body lifts. Return to the bottom of the rep range.",
-    "Leave about 2–3 reps in reserve on compound lifts and 0–1 on isolation or machine exercises. Use a full range of motion.",
-    "Judge progress over weeks, not one session."
+    "Write down the weight and reps for each set. Try to improve a little over time.",
+    "Add reps first. Keep the same weight until you reach the top of the rep range on every set.",
+    "Then add weight. My plan used +2.5 kg for upper-body lifts and +5 kg for lower-body lifts. Start again at the bottom of the rep range.",
+    "For big lifts like squats and bench, stop when you could still do 2–3 more good reps. For smaller lifts and machines, the plan allowed 0–1 reps left. Keep the full movement.",
+    "Look at a few weeks of workouts. One bad day doesn’t tell you much."
   ],
   "recovery": [
-    "Feeling beat up? Keep the weights, remove 1–2 sets per lift and stay 2–3 reps from failure.",
-    "Too run down to train? Take the rest day early.",
-    "If lifts stall or go backwards for several sessions, reduce volume rather than adding more.",
-    "Prioritise sleep: the plan's target was 7.5–9 hours.",
-    "Progress the existing lifts before adding more exercises."
+    "Feeling worn out? The plan says to cut 1–2 sets from each lift, keep the same weight and stop with 2–3 reps left.",
+    "Too tired to train? Take your rest day early.",
+    "Getting weaker over several workouts? Try fewer sets before adding more work.",
+    "My sleep target was 7.5–9 hours.",
+    "Work on the lifts you already do before adding new ones."
   ],
   "nutrition": [
     {
@@ -226,12 +226,12 @@
     }
   ],
   "nutritionNotes": [
-    "Prioritise the protein target; put most carbs around training and fats in other meals.",
-    "The plan included 40–60 g of fast-digesting carbs 30–45 minutes before lifting.",
-    "Weigh each morning and compare weekly averages. The original target was +0.25–0.5 lb per week.",
-    "Above +0.75 lb per week: reduce training-day calories by about 150. Stalled for 2–3 weeks: add about 150 calories.",
-    "The plan included creatine, 5 g each day.",
-    "Log each set, take a progress photo every four weeks and record the weekly weight average."
+    "My first food goal was enough protein. The plan put most carbs around workouts and fats in other meals.",
+    "Before lifting: 40–60 g of quick-digesting carbs, 30–45 minutes before the workout.",
+    "Weigh each morning and look at the weekly average. My target was to gain 0.25–0.5 lb a week.",
+    "Gaining over 0.75 lb a week? My plan said to cut about 150 calories on training days. No gain for 2–3 weeks? Add about 150 calories.",
+    "The plan included 5 g of creatine a day.",
+    "Save your workout notes and weekly average weight. Take a progress photo every four weeks."
   ],
   "volume": [
     [
@@ -271,11 +271,12 @@
       "~5"
     ]
   ],
-  "goal": "The original plan aimed for a slow climb to 175–180 lb over a year, then a 6–8 week cut.",
+  "goal": "The plan was to slowly reach 175–180 lb over a year, then spend 6–8 weeks cutting.",
   "v2": [
-    "Core on Push and Pull, with none added to Legs.",
-    "Less back and quad volume than the previous routine.",
-    "Squats starting at 80 kg, with progression from there."
+    "Abs on Push and Pull, with none added to Legs.",
+    "Fewer back and quad sets than the old routine.",
+    "Start squats at 80 kg and build from there."
   ],
-  "glossary": "DB = dumbbell. OHP = overhead press. RIR = reps in reserve (reps you could still do). 12RM = a weight you can lift for about 12 reps. 'Each' means each dumbbell; '+' means weight added to bodyweight."
+  "glossary": "A rep is one complete movement. A set is a group of reps. “Each” means the weight of each dumbbell. “+” means extra weight added to your bodyweight. Optional exercises can be left out.",
+  "progressExample": "Example: 3 × 8–12 means you work up to 12 reps on all three sets. Then add weight and build up again from 8 reps."
 }

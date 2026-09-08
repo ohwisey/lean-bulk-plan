@@ -1,38 +1,40 @@
 # LUKE'S LEAN BULK PLAN
 
-Original v2 with Luke's dip substitution
+My v2 plan, with dips
 
-My AI plan with weighted dips first on Push, replacing rope pushdowns. The other listed loads are my original starting weights while I focused on form. These weights and nutrition targets are personal, not targets for everyone.
+I swapped rope pushdowns for weighted dips and put dips first here. The table shows my starting weights while I worked on form. Pick weights you can control. My food targets were set for me, too.
 
-Push → Pull → Legs → Rest → repeat. Train three days, rest one. The rest day moves across the week.
+Push → Pull → Legs → Rest → repeat. Follow the days in order, even when a new week starts.
 
-PUSH — Chest, shoulders, triceps + core
-Starting weights while I focused on form. Choose loads you can control.
+4 × 5–8 means 4 sets of 5 to 8 reps. Rest is the break between sets.
+
+PUSH — Chest, shoulders, triceps + abs
+My starting weights while I worked on form. Pick weights you can control.
 
 Weighted dips
 Sets/reps: Not recorded | Rest: Not recorded | Starting weight: Not recorded
-Replaces rope pushdowns. Dips are listed first in this shared version. The four-month check-in lists +10 kg on a belt; my starting dip prescription was not recorded in the original PDF.
+I swapped rope pushdowns for dips. My starting sets, reps and weight weren’t saved. Four months later, I was using +10 kg on a belt.
 
-Barbell flat bench
+Barbell bench press
 4 × 5–8 | Rest: 3 min | Starting weight: 70 kg
 
-Standing barbell OHP
+Standing overhead press
 3 × 6–8 | Rest: 2.5 min | Starting weight: 45 kg
 
-Incline DB press (30°)
+Incline dumbbell press (30°)
 3 × 8–12 | Rest: 2 min | Starting weight: 30 kg each
 
-DB lateral raise
+Dumbbell lateral raise
 3 × 12–15 | Rest: 75 sec | Starting weight: 12.5 kg
 
-Overhead cable triceps (optional)
+Overhead cable triceps extension (optional)
 2–3 × 12–15 | Rest: 60 sec | Starting weight: 22.5 kg
 
-Cable crunch (core)
+Cable crunch (abs)
 3 × 10–15 | Rest: 60 sec | Starting weight: 32.5 kg
 
-PULL — Back, rear delts, biceps + core
-Starting weights while I focused on form. Choose loads you can control.
+PULL — Back, rear shoulders, biceps + abs
+My starting weights while I worked on form. Pick weights you can control.
 
 Weighted pull-ups
 3 × 6–8 | Rest: 3 min | Starting weight: +7.5 kg
@@ -43,7 +45,7 @@ Barbell row
 Lat pulldown (wide)
 3 × 10–12 | Rest: 2 min | Starting weight: 60 kg
 
-Chest-supported DB row (optional)
+Chest-supported dumbbell row (optional)
 2 × 10–12 | Rest: 90 sec | Starting weight: 20 kg each
 
 Barbell curl
@@ -55,11 +57,11 @@ Face pull
 Hammer curl (optional)
 2 × 10–12 | Rest: 60 sec | Starting weight: 22.5 kg
 
-Hanging leg raise (core)
+Hanging leg raise (abs)
 3 × 8–12 | Rest: 60 sec | Starting weight: Bodyweight
 
 LEGS — Quads, hamstrings, glutes + calves
-Starting weights while I focused on form. Choose loads you can control.
+My starting weights while I worked on form. Pick weights you can control.
 
 Barbell back squat
 4 × 5–8 | Rest: 3 min | Starting weight: 80 kg
@@ -80,37 +82,39 @@ Leg extension (optional)
 2 × 12–15 | Rest: 60 sec | Starting weight: 42.5 kg
 
 Standing calf raise
-3 × 12–15 | Rest: 60 sec | Starting weight: Pick a 12RM
+3 × 12–15 | Rest: 60 sec | Starting weight: Choose a 12-rep weight
 
 REST
-Full rest, or easy recovery only. Optional: 30–45 minutes of easy zone 2 cycling or walking, plus 10 minutes of mobility or sauna. The plan's sleep target was 7.5–9 hours. Then loop back to Push.
+Take the day off lifting. If you want to move, the plan allows 30–45 minutes of easy cycling or walking, plus 10 minutes of mobility work or sauna. My sleep target was 7.5–9 hours. Next day: Push.
 
-HOW TO PROGRESS
-• Log every working set. Aim for an extra rep or a little more weight on at least one set.
-• Add reps first. Keep the same weight until every set reaches the top of its rep range.
-• Then add weight: +2.5 kg on upper-body lifts or +5 kg on lower-body lifts. Return to the bottom of the rep range.
-• Leave about 2–3 reps in reserve on compound lifts and 0–1 on isolation or machine exercises. Use a full range of motion.
-• Judge progress over weeks, not one session.
+HOW TO GET STRONGER
+• Write down the weight and reps for each set. Try to improve a little over time.
+• Add reps first. Keep the same weight until you reach the top of the rep range on every set.
+• Then add weight. My plan used +2.5 kg for upper-body lifts and +5 kg for lower-body lifts. Start again at the bottom of the rep range.
+• For big lifts like squats and bench, stop when you could still do 2–3 more good reps. For smaller lifts and machines, the plan allowed 0–1 reps left. Keep the full movement.
+• Look at a few weeks of workouts. One bad day doesn’t tell you much.
 
-RECOVERY
-• Feeling beat up? Keep the weights, remove 1–2 sets per lift and stay 2–3 reps from failure.
-• Too run down to train? Take the rest day early.
-• If lifts stall or go backwards for several sessions, reduce volume rather than adding more.
-• Prioritise sleep: the plan's target was 7.5–9 hours.
-• Progress the existing lifts before adding more exercises.
+Example: 3 × 8–12 means you work up to 12 reps on all three sets. Then add weight and build up again from 8 reps.
 
-MY NUTRITION TARGETS
-Training day: ~3,100 kcal | Protein 180–200 g | Carbs ~400 g | Fat ~80 g
-Rest day: ~2,600 kcal | Protein 180–200 g | Carbs ~300 g | Fat ~75 g
+WHEN YOU'RE WORN OUT
+• Feeling worn out? The plan says to cut 1–2 sets from each lift, keep the same weight and stop with 2–3 reps left.
+• Too tired to train? Take your rest day early.
+• Getting weaker over several workouts? Try fewer sets before adding more work.
+• My sleep target was 7.5–9 hours.
+• Work on the lifts you already do before adding new ones.
 
-• Prioritise the protein target; put most carbs around training and fats in other meals.
-• The plan included 40–60 g of fast-digesting carbs 30–45 minutes before lifting.
-• Weigh each morning and compare weekly averages. The original target was +0.25–0.5 lb per week.
-• Above +0.75 lb per week: reduce training-day calories by about 150. Stalled for 2–3 weeks: add about 150 calories.
-• The plan included creatine, 5 g each day.
-• Log each set, take a progress photo every four weeks and record the weekly weight average.
+MY FOOD TARGETS
+Training day: ~3,100 calories | Protein 180–200 g | Carbs ~400 g | Fat ~80 g
+Rest day: ~2,600 calories | Protein 180–200 g | Carbs ~300 g | Fat ~75 g
 
-WEEKLY VOLUME ESTIMATES FROM THE ORIGINAL PLAN
+• My first food goal was enough protein. The plan put most carbs around workouts and fats in other meals.
+• Before lifting: 40–60 g of quick-digesting carbs, 30–45 minutes before the workout.
+• Weigh each morning and look at the weekly average. My target was to gain 0.25–0.5 lb a week.
+• Gaining over 0.75 lb a week? My plan said to cut about 150 calories on training days. No gain for 2–3 weeks? Add about 150 calories.
+• The plan included 5 g of creatine a day.
+• Save your workout notes and weekly average weight. Take a progress photo every four weeks.
+
+SETS PER MUSCLE EACH WEEK
 Back: ~17 sets/week
 Quads: ~17 sets/week
 Chest: ~12 sets/week
@@ -120,17 +124,17 @@ Shoulders: ~10 sets/week
 Hamstrings: ~10 sets/week
 Abs: ~6 sets/week
 Calves: ~5 sets/week
-These are the PDF's fractional-set estimates, including indirect work.
+Estimates from the original PDF, before the dip swap. These also count some work from other lifts.
 
-THE ORIGINAL GOAL
-The original plan aimed for a slow climb to 175–180 lb over a year, then a 6–8 week cut.
+MY ORIGINAL GOAL
+The plan was to slowly reach 175–180 lb over a year, then spend 6–8 weeks cutting.
 
-WHAT CHANGED IN V2
-• Core on Push and Pull, with none added to Legs.
-• Less back and quad volume than the previous routine.
-• Squats starting at 80 kg, with progression from there.
+CHANGES TO THE OLD PLAN
+• Abs on Push and Pull, with none added to Legs.
+• Fewer back and quad sets than the old routine.
+• Start squats at 80 kg and build from there.
 
-DB = dumbbell. OHP = overhead press. RIR = reps in reserve (reps you could still do). 12RM = a weight you can lift for about 12 reps. 'Each' means each dumbbell; '+' means weight added to bodyweight.
+A rep is one complete movement. A set is a group of reps. “Each” means the weight of each dumbbell. “+” means extra weight added to your bodyweight. Optional exercises can be left out.
 
-Source: Luke LeanBulk Training Plan v2.pdf
+Original PDF: Luke LeanBulk Training Plan v2.pdf
 https://ohwisey.github.io/lean-bulk-plan/
