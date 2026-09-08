@@ -10,17 +10,17 @@ export const dynamic = 'force-static';
 export default function Home() {
   return <>
     <a className="skip-link" href="#routine">Skip to the workouts</a>
-    <header className="site-header"><a href="#top" className="wordmark">OHWISEY<span className="brand-dot" /></a><span className="edition">MY WORKOUT PLAN</span></header>
+    <header className="site-header"><a href="#top" className="wordmark">OHWISEY<span className="brand-dot" /></a></header>
     <main id="top">
       <section className="intro" aria-labelledby="title">
-        <div><p className="eyebrow">THE PLAN FROM MY VIDEO</p><h1 id="title">Luke’s lean<br /><span>bulk plan.</span></h1><p className="intro-text">Three days lifting. One day off. Repeat.<br />Copy my workouts or <a className="inline-link" href="#make-your-own">make a plan for you</a>.</p></div>
-        <div className="take-plan"><CopyButton primary text={fullPlanText()} label="Copy the whole plan" /><a className="download-link" href={`${BASE}/luke-lean-bulk-v2.pdf`} download><Download aria-hidden="true" size={18} /> Download the original PDF</a><a className="text-link" href={`${BASE}/plan.txt`} download>Save as a text file <ArrowDown aria-hidden="true" size={15} /></a><p className="personal-note">These are my starting weights while I worked on form. Pick weights you can control. My food targets were set for me, too.</p></div>
+        <div><h1 id="title">Luke’s lean<br /><span>bulk plan.</span></h1><p className="intro-text">Three days lifting. One day off. Repeat.<br /><a className="inline-link" href="#make-your-own">Make your own plan ↓</a></p></div>
+        <div className="take-plan"><CopyButton primary text={fullPlanText()} label="Copy the whole plan" /><a className="download-link" href={`${BASE}/luke-lean-bulk-v2.pdf`} download><Download aria-hidden="true" size={18} /> Download the original PDF</a><a className="text-link" href={`${BASE}/plan.txt`} download>Save as a text file <ArrowDown aria-hidden="true" size={15} /></a><p className="personal-note">My starting weights while I worked on form. Pick weights you can control.</p></div>
       </section>
       <nav className="cycle" aria-label="Jump to a training day">
         {plan.days.map(d => <a key={d.id} href={`#${d.id}`} style={{'--day-color':d.color} as CSSProperties}><span>{d.number}</span><strong>{d.name}</strong><ArrowDown size={18} aria-hidden="true" /></a>)}
         <a href="#rest" style={{'--day-color':'#80c6b1'} as CSSProperties}><span>04</span><strong>Rest</strong><ArrowDown size={18} aria-hidden="true" /></a>
       </nav>
-      <div className="section-links"><p>Follow these days in order, even when a new week starts.</p><a href="#make-your-own" className="tailored-link">Make your own plan</a><a href="#nutrition">Food</a><a href="#progression">Getting stronger</a></div>
+      <div className="section-links"><p>Follow these days in order, even when a new week starts.</p><a href="#nutrition">Food</a><a href="#progression">Getting stronger</a></div>
       <section id="routine" aria-label="Training plan">
         <p className="table-help">4 × 5–8 means 4 sets of 5 to 8 reps. “Rest” is the break between sets.</p>
         {plan.days.map(day => <section id={day.id} key={day.id} className="workout" style={{'--day-color':day.color} as CSSProperties} aria-labelledby={`${day.id}-heading`}>
@@ -37,6 +37,6 @@ export default function Home() {
       <section className="plan-details" aria-label="More from the original plan"><details><summary>Sets per muscle each week</summary><p>Estimates from the original PDF, before I switched to dips. Exercises can work several muscles, so these totals also count some work from other lifts.</p><dl className="volume-list">{plan.volume.map(([n,s]) => <div key={n}><dt>{n}</dt><dd>{s} sets</dd></div>)}</dl></details><details><summary>My goal and changes to the old plan</summary><p>{plan.goal}</p><ul>{plan.v2.map(s => <li key={s}>{s}</li>)}</ul></details><p className="glossary">{plan.glossary}</p></section>
       <TailoredPlan />
     </main>
-    <footer><a href="#top" className="wordmark">OHWISEY<span className="brand-dot" /></a><p>My dip swap is above. The PDF is the original plan.</p><a href="https://github.com/ohwisey/lean-bulk-plan">View on GitHub <ArrowUpRight aria-hidden="true" size={16} /></a></footer>
+    <footer><a href="#top" className="wordmark">OHWISEY<span className="brand-dot" /></a><a href="https://github.com/ohwisey/lean-bulk-plan">View on GitHub <ArrowUpRight aria-hidden="true" size={16} /></a></footer>
   </>;
 }
