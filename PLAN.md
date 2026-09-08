@@ -1,85 +1,86 @@
 # LUKE'S LEAN BULK PLAN
 
-Original v2
+Original v2 with Luke's dip substitution
 
-The original AI plan I followed. Push, pull, legs, rest, then repeat. These were my starting weights and nutrition targets, not targets for everyone.
+My AI plan with weighted dips first on Push, replacing rope pushdowns. The other listed loads are my original starting weights while I focused on form. These weights and nutrition targets are personal, not targets for everyone.
 
 Push → Pull → Legs → Rest → repeat. Train three days, rest one. The rest day moves across the week.
 
 PUSH — Chest, shoulders, triceps + core
-My original starting weights; choose your own loads.
+Starting weights while I focused on form. Choose loads you can control.
+
+Weighted dips
+Sets/reps: Not recorded | Rest: Not recorded | Starting weight: Not recorded
+Replaces rope pushdowns. Dips are listed first in this shared version. The four-month check-in lists +10 kg on a belt; my starting dip prescription was not recorded in the original PDF.
 
 Barbell flat bench
-4 × 5–8 | Rest: 3 min | My start: 70 kg
+4 × 5–8 | Rest: 3 min | Starting weight: 70 kg
 
 Standing barbell OHP
-3 × 6–8 | Rest: 2.5 min | My start: 45 kg
+3 × 6–8 | Rest: 2.5 min | Starting weight: 45 kg
 
 Incline DB press (30°)
-3 × 8–12 | Rest: 2 min | My start: 30 kg each
+3 × 8–12 | Rest: 2 min | Starting weight: 30 kg each
 
 DB lateral raise
-3 × 12–15 | Rest: 75 sec | My start: 12.5 kg
-
-Rope pushdown
-3 × 10–12 | Rest: 75 sec | My start: 27.5 kg
+3 × 12–15 | Rest: 75 sec | Starting weight: 12.5 kg
 
 Overhead cable triceps (optional)
-2–3 × 12–15 | Rest: 60 sec | My start: 22.5 kg
+2–3 × 12–15 | Rest: 60 sec | Starting weight: 22.5 kg
 
 Cable crunch (core)
-3 × 10–15 | Rest: 60 sec | My start: 32.5 kg
+3 × 10–15 | Rest: 60 sec | Starting weight: 32.5 kg
 
 PULL — Back, rear delts, biceps + core
-My original starting weights; choose your own loads.
+Starting weights while I focused on form. Choose loads you can control.
 
 Weighted pull-ups
-3 × 6–8 | Rest: 3 min | My start: +7.5 kg
+3 × 6–8 | Rest: 3 min | Starting weight: +7.5 kg
 
 Barbell row
-3 × 6–8 | Rest: 3 min | My start: 70 kg
+3 × 6–8 | Rest: 3 min | Starting weight: 70 kg
 
 Lat pulldown (wide)
-3 × 10–12 | Rest: 2 min | My start: 60 kg
+3 × 10–12 | Rest: 2 min | Starting weight: 60 kg
 
 Chest-supported DB row (optional)
-2 × 10–12 | Rest: 90 sec | My start: 20 kg each
+2 × 10–12 | Rest: 90 sec | Starting weight: 20 kg each
 
 Barbell curl
-3 × 8–10 | Rest: 75 sec | My start: 35 kg
+3 × 8–10 | Rest: 75 sec | Starting weight: 35 kg
 
 Face pull
-3 × 15 | Rest: 60 sec | My start: 20 kg
+3 × 15 | Rest: 60 sec | Starting weight: 20 kg
 
 Hammer curl (optional)
-2 × 10–12 | Rest: 60 sec | My start: 22.5 kg
+2 × 10–12 | Rest: 60 sec | Starting weight: 22.5 kg
 
 Hanging leg raise (core)
-3 × 8–12 | Rest: 60 sec | My start: Bodyweight
+3 × 8–12 | Rest: 60 sec | Starting weight: Bodyweight
 
 LEGS — Quads, hamstrings, glutes + calves
-My original starting weights; choose your own loads.
+Starting weights while I focused on form. Choose loads you can control.
 
 Barbell back squat
-4 × 5–8 | Rest: 3 min | My start: 80 kg
+4 × 5–8 | Rest: 3 min | Starting weight: 80 kg
 
 Romanian deadlift
-3 × 8–10 | Rest: 2.5 min | My start: 60 kg
+3 × 8–10 | Rest: 2.5 min | Starting weight: 60 kg
 
 Leg press
-3 × 10–12 | Rest: 2 min | My start: 120 kg
+3 × 10–12 | Rest: 2 min | Starting weight: 120 kg
 
 Bulgarian split squat
-2 × 10–12 / leg | Rest: 90 sec | My start: 20 kg each
+2 × 10–12 / leg | Rest: 90 sec | Starting weight: 20 kg each
 
 Seated leg curl
-3 × 10–12 | Rest: 75 sec | My start: 45 kg
+3 × 10–12 | Rest: 75 sec | Starting weight: 45 kg
 
 Leg extension (optional)
-2 × 12–15 | Rest: 60 sec | My start: 42.5 kg
+2 × 12–15 | Rest: 60 sec | Starting weight: 42.5 kg
 
 Standing calf raise
-3 × 12–15 | Rest: 60 sec | My start: Pick a 12RM
+3 × 12–15 | Rest: 60 sec | Starting weight: Pick a 12RM
 
 REST
 Full rest, or easy recovery only. Optional: 30–45 minutes of easy zone 2 cycling or walking, plus 10 minutes of mobility or sauna. The plan's sleep target was 7.5–9 hours. Then loop back to Push.

@@ -9,7 +9,7 @@
     "dev": "vinext dev",
     "build": "node scripts/build-downloads.mjs && vinext build && node scripts/stage-pages.mjs",
     "start": "vinext start",
-    "lint": "oxlint app lib scripts components/copy-button.tsx components/ui/button.tsx components/ui/table.tsx next.config.ts vite.config.ts",
+    "lint": "oxlint app lib scripts components/copy-button.tsx components/tailored-plan.tsx components/ui/button.tsx components/ui/table.tsx next.config.ts vite.config.ts",
     "format": "oxfmt"
   },
   "dependencies": {

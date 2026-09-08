@@ -1,37 +1,198 @@
 {
   "title": "Luke's lean bulk plan",
-  "version": "Original v2",
-  "intro": "The original AI plan I followed. Push, pull, legs, rest, then repeat. These were my starting weights and nutrition targets, not targets for everyone.",
+  "version": "Original v2 with Luke's dip substitution",
+  "intro": "My AI plan with weighted dips first on Push, replacing rope pushdowns. The other listed loads are my original starting weights while I focused on form. These weights and nutrition targets are personal, not targets for everyone.",
   "split": "Push → Pull → Legs → Rest → repeat. Train three days, rest one. The rest day moves across the week.",
   "days": [
-    {"id":"push","name":"Push","number":"01","focus":"Chest, shoulders, triceps + core","color":"#3de1c6","exercises":[
-      {"name":"Barbell flat bench","sets":"4","reps":"5–8","rest":"3 min","start":"70 kg"},
-      {"name":"Standing barbell OHP","sets":"3","reps":"6–8","rest":"2.5 min","start":"45 kg"},
-      {"name":"Incline DB press (30°)","sets":"3","reps":"8–12","rest":"2 min","start":"30 kg each"},
-      {"name":"DB lateral raise","sets":"3","reps":"12–15","rest":"75 sec","start":"12.5 kg"},
-      {"name":"Rope pushdown","sets":"3","reps":"10–12","rest":"75 sec","start":"27.5 kg"},
-      {"name":"Overhead cable triceps","sets":"2–3","reps":"12–15","rest":"60 sec","start":"22.5 kg","optional":true},
-      {"name":"Cable crunch","sets":"3","reps":"10–15","rest":"60 sec","start":"32.5 kg","core":true}
-    ]},
-    {"id":"pull","name":"Pull","number":"02","focus":"Back, rear delts, biceps + core","color":"#f7b84b","exercises":[
-      {"name":"Weighted pull-ups","sets":"3","reps":"6–8","rest":"3 min","start":"+7.5 kg"},
-      {"name":"Barbell row","sets":"3","reps":"6–8","rest":"3 min","start":"70 kg"},
-      {"name":"Lat pulldown (wide)","sets":"3","reps":"10–12","rest":"2 min","start":"60 kg"},
-      {"name":"Chest-supported DB row","sets":"2","reps":"10–12","rest":"90 sec","start":"20 kg each","optional":true},
-      {"name":"Barbell curl","sets":"3","reps":"8–10","rest":"75 sec","start":"35 kg"},
-      {"name":"Face pull","sets":"3","reps":"15","rest":"60 sec","start":"20 kg"},
-      {"name":"Hammer curl","sets":"2","reps":"10–12","rest":"60 sec","start":"22.5 kg","optional":true},
-      {"name":"Hanging leg raise","sets":"3","reps":"8–12","rest":"60 sec","start":"Bodyweight","core":true}
-    ]},
-    {"id":"legs","name":"Legs","number":"03","focus":"Quads, hamstrings, glutes + calves","color":"#ff8574","exercises":[
-      {"name":"Barbell back squat","sets":"4","reps":"5–8","rest":"3 min","start":"80 kg"},
-      {"name":"Romanian deadlift","sets":"3","reps":"8–10","rest":"2.5 min","start":"60 kg"},
-      {"name":"Leg press","sets":"3","reps":"10–12","rest":"2 min","start":"120 kg"},
-      {"name":"Bulgarian split squat","sets":"2","reps":"10–12 / leg","rest":"90 sec","start":"20 kg each"},
-      {"name":"Seated leg curl","sets":"3","reps":"10–12","rest":"75 sec","start":"45 kg"},
-      {"name":"Leg extension","sets":"2","reps":"12–15","rest":"60 sec","start":"42.5 kg","optional":true},
-      {"name":"Standing calf raise","sets":"3","reps":"12–15","rest":"60 sec","start":"Pick a 12RM"}
-    ]}
+    {
+      "id": "push",
+      "name": "Push",
+      "number": "01",
+      "focus": "Chest, shoulders, triceps + core",
+      "color": "#3de1c6",
+      "exercises": [
+        {
+          "name": "Weighted dips",
+          "sets": "",
+          "reps": "",
+          "prescription": "Not recorded",
+          "rest": "Not recorded",
+          "start": "Not recorded",
+          "note": "Replaces rope pushdowns. Dips are listed first in this shared version. The four-month check-in lists +10 kg on a belt; my starting dip prescription was not recorded in the original PDF."
+        },
+        {
+          "name": "Barbell flat bench",
+          "sets": "4",
+          "reps": "5–8",
+          "rest": "3 min",
+          "start": "70 kg"
+        },
+        {
+          "name": "Standing barbell OHP",
+          "sets": "3",
+          "reps": "6–8",
+          "rest": "2.5 min",
+          "start": "45 kg"
+        },
+        {
+          "name": "Incline DB press (30°)",
+          "sets": "3",
+          "reps": "8–12",
+          "rest": "2 min",
+          "start": "30 kg each"
+        },
+        {
+          "name": "DB lateral raise",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "75 sec",
+          "start": "12.5 kg"
+        },
+        {
+          "name": "Overhead cable triceps",
+          "sets": "2–3",
+          "reps": "12–15",
+          "rest": "60 sec",
+          "start": "22.5 kg",
+          "optional": true
+        },
+        {
+          "name": "Cable crunch",
+          "sets": "3",
+          "reps": "10–15",
+          "rest": "60 sec",
+          "start": "32.5 kg",
+          "core": true
+        }
+      ]
+    },
+    {
+      "id": "pull",
+      "name": "Pull",
+      "number": "02",
+      "focus": "Back, rear delts, biceps + core",
+      "color": "#f7b84b",
+      "exercises": [
+        {
+          "name": "Weighted pull-ups",
+          "sets": "3",
+          "reps": "6–8",
+          "rest": "3 min",
+          "start": "+7.5 kg"
+        },
+        {
+          "name": "Barbell row",
+          "sets": "3",
+          "reps": "6–8",
+          "rest": "3 min",
+          "start": "70 kg"
+        },
+        {
+          "name": "Lat pulldown (wide)",
+          "sets": "3",
+          "reps": "10–12",
+          "rest": "2 min",
+          "start": "60 kg"
+        },
+        {
+          "name": "Chest-supported DB row",
+          "sets": "2",
+          "reps": "10–12",
+          "rest": "90 sec",
+          "start": "20 kg each",
+          "optional": true
+        },
+        {
+          "name": "Barbell curl",
+          "sets": "3",
+          "reps": "8–10",
+          "rest": "75 sec",
+          "start": "35 kg"
+        },
+        {
+          "name": "Face pull",
+          "sets": "3",
+          "reps": "15",
+          "rest": "60 sec",
+          "start": "20 kg"
+        },
+        {
+          "name": "Hammer curl",
+          "sets": "2",
+          "reps": "10–12",
+          "rest": "60 sec",
+          "start": "22.5 kg",
+          "optional": true
+        },
+        {
+          "name": "Hanging leg raise",
+          "sets": "3",
+          "reps": "8–12",
+          "rest": "60 sec",
+          "start": "Bodyweight",
+          "core": true
+        }
+      ]
+    },
+    {
+      "id": "legs",
+      "name": "Legs",
+      "number": "03",
+      "focus": "Quads, hamstrings, glutes + calves",
+      "color": "#ff8574",
+      "exercises": [
+        {
+          "name": "Barbell back squat",
+          "sets": "4",
+          "reps": "5–8",
+          "rest": "3 min",
+          "start": "80 kg"
+        },
+        {
+          "name": "Romanian deadlift",
+          "sets": "3",
+          "reps": "8–10",
+          "rest": "2.5 min",
+          "start": "60 kg"
+        },
+        {
+          "name": "Leg press",
+          "sets": "3",
+          "reps": "10–12",
+          "rest": "2 min",
+          "start": "120 kg"
+        },
+        {
+          "name": "Bulgarian split squat",
+          "sets": "2",
+          "reps": "10–12 / leg",
+          "rest": "90 sec",
+          "start": "20 kg each"
+        },
+        {
+          "name": "Seated leg curl",
+          "sets": "3",
+          "reps": "10–12",
+          "rest": "75 sec",
+          "start": "45 kg"
+        },
+        {
+          "name": "Leg extension",
+          "sets": "2",
+          "reps": "12–15",
+          "rest": "60 sec",
+          "start": "42.5 kg",
+          "optional": true
+        },
+        {
+          "name": "Standing calf raise",
+          "sets": "3",
+          "reps": "12–15",
+          "rest": "60 sec",
+          "start": "Pick a 12RM"
+        }
+      ]
+    }
   ],
   "rest": "Full rest, or easy recovery only. Optional: 30–45 minutes of easy zone 2 cycling or walking, plus 10 minutes of mobility or sauna. The plan's sleep target was 7.5–9 hours. Then loop back to Push.",
   "progression": [
@@ -49,8 +210,20 @@
     "Progress the existing lifts before adding more exercises."
   ],
   "nutrition": [
-    {"day":"Training day","calories":"~3,100","protein":"180–200 g","carbs":"~400 g","fat":"~80 g"},
-    {"day":"Rest day","calories":"~2,600","protein":"180–200 g","carbs":"~300 g","fat":"~75 g"}
+    {
+      "day": "Training day",
+      "calories": "~3,100",
+      "protein": "180–200 g",
+      "carbs": "~400 g",
+      "fat": "~80 g"
+    },
+    {
+      "day": "Rest day",
+      "calories": "~2,600",
+      "protein": "180–200 g",
+      "carbs": "~300 g",
+      "fat": "~75 g"
+    }
   ],
   "nutritionNotes": [
     "Prioritise the protein target; put most carbs around training and fats in other meals.",
@@ -60,8 +233,49 @@
     "The plan included creatine, 5 g each day.",
     "Log each set, take a progress photo every four weeks and record the weekly weight average."
   ],
-  "volume": [["Back","~17"],["Quads","~17"],["Chest","~12"],["Biceps","~12"],["Triceps","~11"],["Shoulders","~10"],["Hamstrings","~10"],["Abs","~6"],["Calves","~5"]],
+  "volume": [
+    [
+      "Back",
+      "~17"
+    ],
+    [
+      "Quads",
+      "~17"
+    ],
+    [
+      "Chest",
+      "~12"
+    ],
+    [
+      "Biceps",
+      "~12"
+    ],
+    [
+      "Triceps",
+      "~11"
+    ],
+    [
+      "Shoulders",
+      "~10"
+    ],
+    [
+      "Hamstrings",
+      "~10"
+    ],
+    [
+      "Abs",
+      "~6"
+    ],
+    [
+      "Calves",
+      "~5"
+    ]
+  ],
   "goal": "The original plan aimed for a slow climb to 175–180 lb over a year, then a 6–8 week cut.",
-  "v2": ["Core on Push and Pull, with none added to Legs.","Less back and quad volume than the previous routine.","Squats starting at 80 kg, with progression from there."],
+  "v2": [
+    "Core on Push and Pull, with none added to Legs.",
+    "Less back and quad volume than the previous routine.",
+    "Squats starting at 80 kg, with progression from there."
+  ],
   "glossary": "DB = dumbbell. OHP = overhead press. RIR = reps in reserve (reps you could still do). 12RM = a weight you can lift for about 12 reps. 'Each' means each dumbbell; '+' means weight added to bodyweight."
 }
